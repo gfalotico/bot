@@ -1,0 +1,17 @@
+{
+  "name": "bot_molesto",
+  "version": "1.0.0",
+  "description": "Un bot recontra molesto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gfalotivo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "git": "^0.1.5",
+    "mongodb": "^3.6.6"
+  }
+}
